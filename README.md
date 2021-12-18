@@ -9,10 +9,10 @@ ACE -- AI Care for Elderly
 
 
 ### Functions of this project
-~~Newspaper reading~~ Working on<br/>
-~~Bedwetting detection~~ Working on<br/>
-~~Falling Elderly~~ Working on<br/>
+~~Newspaper reading~~ (Working on)<br/>
+~~Bedwetting detection~~ (Working on)<br/>
+~~Falling Elderly~~ (Working on)<br/>
 Light system<br/>
-~~Automatic Door System~~ Working on<br/>
-~~Automatic Fan~~ Working on<br/>
-~~Turn on home appliances~~ Working on<br/>
+~~Automatic Door System~~ (Working on)<br/>
+~~Automatic Fan~~ (Working on)<br/>
+~~Turn on home appliances~~ (Working on)<br/>
