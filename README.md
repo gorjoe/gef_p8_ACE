@@ -6,10 +6,10 @@ ACE -- AI Care for Elderly
 
 ### Existing Solution
 #### There are some systems used in elderly care homes, which detect movement of the eldery on the bed during the evening hours. However our solution is surrounding the elderly who live in public housing flats or private housing by themselves.
-
-
-### Functions of this project
-~~Newspaper reading~~ (Working on)<br/>
+<br/>
+<br/>
+### Functions of this project:
+<br/>~~Newspaper reading~~ (Working on)<br/>
 ~~Bedwetting detection~~ (Working on)<br/>
 ~~Falling Elderly~~ (Working on)<br/>
 Light system<br/>
