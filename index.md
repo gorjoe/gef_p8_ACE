@@ -5,6 +5,7 @@ You can view our code on [our GitHub page](https://github.com/gorjoe/gef_p8_ACE)
 All code for this repository will be under [MIT License](https://github.com/gorjoe/gef_p8_ACE/blob/main/LICENSE)
 
 ### Video
+<link rel="stylesheet" href="/css/style.css">
 This is our introduction video
 <div class="container">
   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/dQw4w9WgXcQ"></iframe>
@@ -18,24 +19,3 @@ And this is a demonstrate of the code
 ### Contact
 
 Check out our [repository](https://github.com/gorjoe/gef_p8_ACE) or [Cityu main repository](https://github.com/cityueegef/gef2020_aiot_exercise_notebooks) for further code example.
-
-
-<style>
-.container {
-  position: relative;
-  width: 100%;
-  overflow: hidden;
-  padding-top: 56.25%; /* 16:9 Aspect Ratio */
-}
-
-.responsive-iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
-  border: none;
-}
-</style>
