@@ -6,11 +6,36 @@ All code for this repository will be under [MIT License](https://github.com/gorj
 
 ### Video
 This is our introduction video
-<iframe width="60%" height="30%" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/dQw4w9WgXcQ"></iframe>
+</div>
 
 And this is a demonstrate of the code
-<iframe width="60%" height="30%" src="https://www.youtube.com/embed/Gs069dndIYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/Gs069dndIYk"></iframe>
+</div>
 
 ### Contact
 
 Check out our [repository](https://github.com/gorjoe/gef_p8_ACE) or [Cityu main repository](https://github.com/cityueegef/gef2020_aiot_exercise_notebooks) for further code example.
+
+
+<style>
+.container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+</style>
