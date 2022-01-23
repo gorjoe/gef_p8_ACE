@@ -65,6 +65,6 @@ Turn on home appliances
     <td>grove_imu</td>
   </tr>
 </table>
-3. Run the Python script or the Jupyter Notebook
-4. Install the [ACE apk](https://github.com/gorjoe/gef_p8_ACE/raw/main/ACE.apk) to enjoy the integrated features
+3. Run the Python script or the Jupyter Notebook<br>
+4. Install the <a href="https://github.com/gorjoe/gef_p8_ACE/raw/main/ACE.apk">ACE apk</a> to enjoy the integrated features<br>
 5. Play with the IOT
