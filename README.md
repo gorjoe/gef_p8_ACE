@@ -66,7 +66,5 @@ Turn on home appliances
   </tr>
 </table>
 3. Run the Python script or the Jupyter Notebook
-4. Install the [ACE APK][apk] to enjoy the integrated features
+4. Install the [ACE apk](https://github.com/gorjoe/gef_p8_ACE/raw/main/ACE.apk) to enjoy the integrated features
 5. Play with the IOT
-
-[apk]: https://github.com/gorjoe/gef_p8_ACE/raw/main/ACE.apk
