@@ -1,0 +1,4 @@
+include ':mlkit-text-recognition'
+include ':mlkit-camera-core'
+include ':app'
+rootProject.name = "MLKit"

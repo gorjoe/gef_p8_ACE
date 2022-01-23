@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ACE</string>
+    <string name="sensor_data">Sensor Data</string>
+    <string name="todo">TODO</string>
+    <string name="newspaper_reading">Newspaper Reading</string>
+    <string name="data">Sensor</string>
+    <string name="click">click</string>
+    <string name="switch1">Sync Sensor Data</string>
+    <string name="home_appliances">Home Appliances</string>
+    <string name="last_update">Last Update:</string>
+    <string name="button">Button</string>
+    <string name="btn_light">Light</string>
+    <string name="textview">TextView</string>
+    <string name="light_off">Light Off</string>
+    <string name="light_on">Light On</string>
+    <string name="door_close">Door Close</string>
+    <string name="door_open">Door Open</string>
+</resources>
