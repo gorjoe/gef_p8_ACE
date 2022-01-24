@@ -25,6 +25,12 @@ Turn on home appliances
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="php" width="26px" src="https://pngimg.com/uploads/php/php_PNG43.png" />
+<img align="left" alt="java" width="26px" src="https://upload.wikimedia.org/wikipedia/zh/8/88/Java_logo.png" />
+<img align="left" alt="jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
+<img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" />
+<img align="left" alt="kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/152px-Kotlin_Icon.svg.png" />
+<img align="left" alt="apache" width="26px" src="https://avatars.githubusercontent.com/u/47359?s=200&v=4" />
 <br>
 <br>
 
@@ -65,6 +71,7 @@ Turn on home appliances
     <td>grove_imu</td>
   </tr>
 </table>
-3. Run the Python script or the Jupyter Notebook<br>
-4. Install the <a href="https://github.com/gorjoe/gef_p8_ACE/raw/main/ACE.apk">ACE apk</a> to enjoy the integrated features<br>
-5. Play with the IOT
+3. Setup a database with two table named "home" and "sensor" 
+4. Run the Python script or the Jupyter Notebook<br>
+5. Install the <a href="https://github.com/gorjoe/gef_p8_ACE/raw/main/ACE.apk">ACE apk</a> to enjoy the integrated features<br>
+6. Play with the IOT
